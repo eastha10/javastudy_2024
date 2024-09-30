@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="study/exam03/|study/exam01/|study/exam02/|study/exam04/|study/exam05/|study/exam06/Week.java|study/exam06/|study/exam07/|exam08/|study,exam08/|study,exam08/|study/exam08/sub01/|study/exam08/|study/exam09/|study/exam10/" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

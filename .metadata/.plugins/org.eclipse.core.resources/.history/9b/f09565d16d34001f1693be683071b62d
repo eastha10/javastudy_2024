@@ -1,7 +1,0 @@
-package test_202406;
-
-public class prototype1 {
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-	}
-}
